@@ -6,4 +6,4 @@ The goal was to detect real versus fake banknotes. The data used in this problem
 
 ## Overview
 
-The Model is Build Using RandomForest Classifier with 98% accuracy and This is a Flask App which tells Autheticity of Bank Note.
+The Model is Build Using RandomForest Classifier with 98.7% accuracy and This is a Flask App which tells Autheticity of Bank Note.
